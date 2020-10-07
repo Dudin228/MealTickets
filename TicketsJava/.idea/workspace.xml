@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2cca534-4a20-4837-bfe5-31792fbed159" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Hello/Hello.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MealTickets/MealTickets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MealTickets/src/main/java/ticketmeal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MealTickets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_lesson/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2cca534-4a20-4837-bfe5-31792fbed159" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +65,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602087817818</updated>
-      <workItem from="1602087832915" duration="693000" />
+      <workItem from="1602087832915" duration="960000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1602088549992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602088549992</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init">
+      <created>1602088591038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602088591038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
 </project>
